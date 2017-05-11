@@ -1,23 +1,17 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: nobikun1412
- * Date: 19-Apr-17
- * Time: 22:39
- */
-/**
- * The template for displaying all pages.
- *
- * This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site may use a
- * different template.
- *
- * @link https://codex.wordpress.org/Template_Hierarchy
+ * Template Name: Contact custom
  *
  * @package ThemeGrill
  * @subpackage eStore
- * @since eStore 0.1
+ * @since 1.0
+ */
+
+/**
+ * Created by PhpStorm.
+ * User: nobikun1412
+ * Date: 11-May-17
+ * Time: 23:40
  */
 
 get_header();
@@ -47,9 +41,6 @@ else {
                 <?php get_template_part( 'template-parts/left_sidebar', 'custom' ); ?>
 
                 <div class="col-md-7 content-page full-width-ipad">
-                    <!-- Add slider images-->
-                    <?php get_template_part( 'template-parts/slider', 'custom' ); ?>
-
                     <div class="page-content-custom">
                         <!-- Add posts-->
                         <div class="page-title">
@@ -57,36 +48,27 @@ else {
                         </div>
                         <?php
                         while ( have_posts() ) : the_post();
-                        if (get_post()->post_content != ''):
-                        ?>
-                            <div class="content-post">
-                                <?php get_template_part( 'template-parts/content', 'page' ); ?>
-
-                                <?php
-                                // If comments are open or we have at least one comment, load up the comment template.
-                                if ( comments_open() || get_comments_number() ) :
-                                    comments_template();
-                                endif;
-
-                                get_template_part('navigation', 'none');
+                            if (get_post()->post_content != ''):
                                 ?>
-                            </div>
-                        <?php
-                        endif;
+                                <div class="content-post">
+                                    <?php get_template_part( 'template-parts/content', 'page' ); ?>
+
+                                    <?php
+                                    // If comments are open or we have at least one comment, load up the comment template.
+                                    if ( comments_open() || get_comments_number() ) :
+                                        comments_template();
+                                    endif;
+
+                                    get_template_part('navigation', 'none');
+                                    ?>
+                                </div>
+                                <?php
+                            endif;
                         endwhile; // End of the loop.
                         ?>
-                        <!-- Add preview post-->
-                        <?php get_template_part( 'template-parts/preview_post_section', 'custom' ); ?>
 
-                        <!--  Add list products-->
-                        <?php get_template_part( 'template-parts/list_products_section', 'custom' ); ?>
-
-                        <!--  Add list new products-->
-                        <?php get_template_part( 'template-parts/list_new_products', 'custom' ); ?>
-
-                        <!-- Add customers-->
-                        <?php get_template_part( 'template-parts/customer_typical', 'custom' ); ?>
-
+                        <!-- Add google maps-->
+                        <?php get_template_part( 'template-parts/google_map', 'custom' ); ?>
                     </div>
                 </div>
 

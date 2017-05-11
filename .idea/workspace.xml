@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb645123-1a72-41dd-9922-4e961f770ee7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/upload/lht-v2-75x75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/upload/lht-v2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-list-stores.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-list-stores.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php" afterPath="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,16 +31,9 @@
       <file leaf-file-name="single-product.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="152" column="23" lean-forward="true" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482156950" expanded="true" signature="2236:2438" ph="..." />
-                <marker date="1494482156950" expanded="true" signature="2296:2438" ph="..." />
-                <marker date="1494482156950" expanded="true" signature="2639:2688" ph="..." />
-              </folding>
+            <state relative-caret-position="117">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,51 +41,19 @@
       <file leaf-file-name="taxonomy-product_cat.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="250" column="18" lean-forward="false" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482157580" expanded="true" signature="1969:2171" ph="..." />
-                <marker date="1494482157580" expanded="true" signature="2029:2171" ph="..." />
-                <marker date="1494482157580" expanded="true" signature="2372:2421" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            <state relative-caret-position="576">
+              <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/functions.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="39" column="82" lean-forward="false" selection-start-line="39" selection-start-column="82" selection-end-line="39" selection-end-column="82" />
-              <folding>
-                <element signature="n#myplugin_ajaxurl#0;n#!!top" expanded="false" />
-                <marker date="1494480574715" expanded="true" signature="3851:3934" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="4596:4659" ph="SELECT * FRO... wp_district" />
-                <marker date="1494480574715" expanded="true" signature="5119:5183" ph="SELECT * FRO... wp_customers" />
-                <marker date="1494480574715" expanded="true" signature="5761:5825" ph="SELECT * FRO... wp_customers" />
-                <marker date="1494480574715" expanded="true" signature="6022:6105" ph="SELECT * FRO... wp_customers" />
-                <marker date="1494480574715" expanded="true" signature="7331:7404" ph="SELECT name wp_city" />
-                <marker date="1494480574715" expanded="true" signature="7609:7686" ph="SELECT name wp_district" />
-                <marker date="1494480574715" expanded="true" signature="8454:9442" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="8646:9442" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="8760:9119" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="9229:9442" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="9832:10130" ph="..." />
-                <marker date="1494480574715" expanded="true" signature="10243:10592" ph="..." />
-              </folding>
+            <state relative-caret-position="523">
+              <caret line="241" column="79" lean-forward="false" selection-start-line="241" selection-start-column="79" selection-end-line="241" selection-end-column="79" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,87 +61,23 @@
       <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
-              <caret line="532" column="28" lean-forward="false" selection-start-line="532" selection-start-column="28" selection-end-line="532" selection-end-column="28" />
+            <state relative-caret-position="1173">
+              <caret line="93" column="87" lean-forward="true" selection-start-line="92" selection-start-column="16" selection-end-line="93" selection-end-column="87" />
               <folding>
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482050247" expanded="true" signature="2099:2301" ph="..." />
-                <marker date="1494482050247" expanded="true" signature="2159:2301" ph="..." />
-                <marker date="1494482050247" expanded="true" signature="2514:2563" ph="..." />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
+                <element signature="e#2115#2965#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/search.php">
+      <file leaf-file-name="template-contact-custom.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-contact-custom.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="182" column="18" lean-forward="false" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+            <state relative-caret-position="-627">
+              <caret line="42" column="67" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
               <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482156720" expanded="true" signature="1640:1842" ph="..." />
-                <marker date="1494482156720" expanded="true" signature="1700:1842" ph="..." />
-                <marker date="1494482156720" expanded="true" signature="2043:2092" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/single.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="174" column="18" lean-forward="false" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482158122" expanded="true" signature="1689:1891" ph="..." />
-                <marker date="1494482158122" expanded="true" signature="1749:1891" ph="..." />
-                <marker date="1494482158122" expanded="true" signature="2092:2141" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-list-stores.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-list-stores.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="335" column="22" lean-forward="false" selection-start-line="335" selection-start-column="22" selection-end-line="335" selection-end-column="22" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482157769" expanded="true" signature="2631:2833" ph="..." />
-                <marker date="1494482157769" expanded="true" signature="2691:2833" ph="..." />
-                <marker date="1494482157769" expanded="true" signature="3046:3095" ph="..." />
-                <marker date="1494482157769" expanded="true" signature="7126:7147" ph="SELECT * FRO... wp_city" />
-                <marker date="1494482157769" expanded="true" signature="7438:7530" ph="SELECT * FRO... wp_customers" />
-                <marker date="1494482157769" expanded="true" signature="10045:10162" ph="SELECT name wp_city" />
-                <marker date="1494482157769" expanded="true" signature="10711:10832" ph="SELECT name wp_district" />
-                <marker date="1494482157769" expanded="true" signature="19367:19388" ph="SELECT * FRO... wp_city" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="251" column="18" lean-forward="false" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482157942" expanded="true" signature="2292:2494" ph="..." />
-                <marker date="1494482157942" expanded="true" signature="2352:2494" ph="..." />
-                <marker date="1494482157942" expanded="true" signature="2695:2744" ph="..." />
+                <element signature="e#6#108#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -178,16 +86,57 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="476" column="16" lean-forward="false" selection-start-line="476" selection-start-column="16" selection-end-line="476" selection-end-column="16" />
+            <state relative-caret-position="138">
+              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
               <folding>
-                <element signature="n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-                <marker date="1494482157172" expanded="true" signature="2674:2876" ph="..." />
-                <marker date="1494482157172" expanded="true" signature="2734:2876" ph="..." />
-                <marker date="1494482157172" expanded="true" signature="3089:3138" ph="..." />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template-list-stores.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-list-stores.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="225" column="0" lean-forward="false" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+              <folding>
+                <marker date="1494523323908" expanded="true" signature="3069:3090" ph="SELECT * FRO... wp_city" />
+                <marker date="1494523323908" expanded="true" signature="3381:3473" ph="SELECT * FRO... wp_customers" />
+                <marker date="1494523323908" expanded="true" signature="5988:6105" ph="SELECT name wp_city" />
+                <marker date="1494523323908" expanded="true" signature="6654:6775" ph="SELECT name wp_district" />
+                <marker date="1494523323908" expanded="true" signature="15310:15331" ph="SELECT * FRO... wp_city" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -203,13 +152,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>load</find>
-      <find>.load</find>
-      <find>bxs</find>
-      <find>inc</find>
-      <find>estore_template_loop_product_thumbnail</find>
-      <find>woocommerce_template_loop_product_title</find>
-      <find>-&gt;ID</find>
       <find>globa</find>
       <find>my_re</find>
       <find>my_r</find>
@@ -232,6 +174,13 @@
       <find>woocommerce-pagination</find>
       <find>list-online-store</find>
       <find>premium</find>
+      <find>sologan_lht_en</find>
+      <find>col-md-3 menu-cates</find>
+      <find>Add slider images</find>
+      <find>Add preview post</find>
+      <find>Add list products</find>
+      <find>Add list new products</find>
+      <find>Add customers</find>
       <find>col-md-2 list-customers</find>
     </findStrings>
     <dirStrings>
@@ -251,16 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/estore/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore/woocommerce/wc-template-functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore/inc/woocommerce.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product/sku-production.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product/price.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/custom.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/libs/bxslider/jquery.bxslider.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/myplugin/myplugin-admin-page.php" />
@@ -291,9 +230,20 @@
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product/select-online-store.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/content-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-single-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/css/responsive.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/left-sidebar_custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/slider-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/preview_post_section-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/list_products_section-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/list_new_products-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/customer_typical-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/right_sidebar-custom.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/google_map-custom.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-contact-custom.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/search.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/single.php" />
@@ -301,7 +251,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/estore-child/style.css" />
       </list>
     </option>
   </component>
@@ -333,6 +282,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -448,79 +398,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lienhiepthanh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lienhiepthanh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estore-child" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="page-templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lienhiepthanh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -532,17 +441,18 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child" />
-      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\plugins\WP_Store_management" />
-      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\public\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\css" />
       <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\woocommerce\loop" />
       <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child" />
       <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\woocommerce" />
       <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\page-templates" />
-      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\woocommerce\single-product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\public" />
+      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child" />
+      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\plugins\WP_Store_management" />
+      <recent name="D:\xampp\htdocs\lienhiepthanh\wp-content\themes\estore-child\public\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -645,18 +555,20 @@
       <workItem from="1494331080651" duration="8080000" />
       <workItem from="1494404087214" duration="4462000" />
       <workItem from="1494442966640" duration="55000" />
-      <workItem from="1494480092096" duration="1762000" />
+      <workItem from="1494480092096" duration="5007000" />
+      <workItem from="1494513565313" duration="3610000" />
+      <workItem from="1494520447337" duration="3397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239888000" />
+    <option name="totallyTimeSpent" value="250140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25037822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36410257" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -707,77 +619,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/WP_Store_management/LICENSE" />
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/WP_Store_management/public/admin/custom-admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/WP_Store_management/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3978">
-          <caret line="241" column="69" lean-forward="false" selection-start-line="241" selection-start-column="69" selection-end-line="241" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3927">
-          <caret line="241" column="22" lean-forward="false" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/page-templates/template-wc-collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/page-templates/template-estore-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-wc-collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-estore-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/no-results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/search.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -838,27 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content-none.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="115" lean-forward="false" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="115" />
         </state>
       </provider>
     </entry>
@@ -946,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3638">
           <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,161 +801,244 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/public/css/responsive-custom.css" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="39" column="82" lean-forward="false" selection-start-line="39" selection-start-column="82" selection-end-line="39" selection-end-column="82" />
+        <state relative-caret-position="578">
+          <caret line="39" column="113" lean-forward="false" selection-start-line="39" selection-start-column="113" selection-end-line="39" selection-end-column="113" />
           <folding>
             <element signature="n#myplugin_ajaxurl#0;n#!!top" expanded="false" />
-            <marker date="1494480574715" expanded="true" signature="3851:3934" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="4596:4659" ph="SELECT * FRO... wp_district" />
-            <marker date="1494480574715" expanded="true" signature="5119:5183" ph="SELECT * FRO... wp_customers" />
-            <marker date="1494480574715" expanded="true" signature="5761:5825" ph="SELECT * FRO... wp_customers" />
-            <marker date="1494480574715" expanded="true" signature="6022:6105" ph="SELECT * FRO... wp_customers" />
-            <marker date="1494480574715" expanded="true" signature="7331:7404" ph="SELECT name wp_city" />
-            <marker date="1494480574715" expanded="true" signature="7609:7686" ph="SELECT name wp_district" />
-            <marker date="1494480574715" expanded="true" signature="8454:9442" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="8646:9442" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="8760:9119" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="9229:9442" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="9832:10130" ph="..." />
-            <marker date="1494480574715" expanded="true" signature="10243:10592" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="3851:3934" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="4596:4659" ph="SELECT * FRO... wp_district" />
+            <marker date="1494485284627" expanded="true" signature="5119:5183" ph="SELECT * FRO... wp_customers" />
+            <marker date="1494485284627" expanded="true" signature="5761:5825" ph="SELECT * FRO... wp_customers" />
+            <marker date="1494485284627" expanded="true" signature="6022:6105" ph="SELECT * FRO... wp_customers" />
+            <marker date="1494485284627" expanded="true" signature="7331:7404" ph="SELECT name wp_city" />
+            <marker date="1494485284627" expanded="true" signature="7609:7686" ph="SELECT name wp_district" />
+            <marker date="1494485284627" expanded="true" signature="8454:9442" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="8646:9442" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="8760:9119" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="9229:9442" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="9832:10130" ph="..." />
+            <marker date="1494485284627" expanded="true" signature="10243:10592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content-none.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#154#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#199#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#180#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/left_sidebar-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <marker date="1494520915549" expanded="true" signature="1364:1566" ph="..." />
+            <marker date="1494520915549" expanded="true" signature="1424:1566" ph="..." />
+            <marker date="1494520915549" expanded="true" signature="1731:1780" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/preview_post_section-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#article#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/list_products_section-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/list_new_products-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/customer_typical-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/slider-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/right_sidebar-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="86" column="6" lean-forward="false" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/template-parts/google_map-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="476" column="16" lean-forward="false" selection-start-line="476" selection-start-column="16" selection-end-line="476" selection-end-column="16" />
+        <state relative-caret-position="138">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
           <folding>
-            <element signature="n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482157172" expanded="true" signature="2674:2876" ph="..." />
-            <marker date="1494482157172" expanded="true" signature="2734:2876" ph="..." />
-            <marker date="1494482157172" expanded="true" signature="3089:3138" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="532" column="28" lean-forward="false" selection-start-line="532" selection-start-column="28" selection-end-line="532" selection-end-column="28" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482050247" expanded="true" signature="2099:2301" ph="..." />
-            <marker date="1494482050247" expanded="true" signature="2159:2301" ph="..." />
-            <marker date="1494482050247" expanded="true" signature="2514:2563" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="182" column="18" lean-forward="false" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482156720" expanded="true" signature="1640:1842" ph="..." />
-            <marker date="1494482156720" expanded="true" signature="1700:1842" ph="..." />
-            <marker date="1494482156720" expanded="true" signature="2043:2092" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="174" column="18" lean-forward="false" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482158122" expanded="true" signature="1689:1891" ph="..." />
-            <marker date="1494482158122" expanded="true" signature="1749:1891" ph="..." />
-            <marker date="1494482158122" expanded="true" signature="2092:2141" ph="..." />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-list-stores.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="335" column="22" lean-forward="false" selection-start-line="335" selection-start-column="22" selection-end-line="335" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="225" column="0" lean-forward="false" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
           <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482157769" expanded="true" signature="2631:2833" ph="..." />
-            <marker date="1494482157769" expanded="true" signature="2691:2833" ph="..." />
-            <marker date="1494482157769" expanded="true" signature="3046:3095" ph="..." />
-            <marker date="1494482157769" expanded="true" signature="7126:7147" ph="SELECT * FRO... wp_city" />
-            <marker date="1494482157769" expanded="true" signature="7438:7530" ph="SELECT * FRO... wp_customers" />
-            <marker date="1494482157769" expanded="true" signature="10045:10162" ph="SELECT name wp_city" />
-            <marker date="1494482157769" expanded="true" signature="10711:10832" ph="SELECT name wp_district" />
-            <marker date="1494482157769" expanded="true" signature="19367:19388" ph="SELECT * FRO... wp_city" />
+            <marker date="1494523323908" expanded="true" signature="3069:3090" ph="SELECT * FRO... wp_city" />
+            <marker date="1494523323908" expanded="true" signature="3381:3473" ph="SELECT * FRO... wp_customers" />
+            <marker date="1494523323908" expanded="true" signature="5988:6105" ph="SELECT name wp_city" />
+            <marker date="1494523323908" expanded="true" signature="6654:6775" ph="SELECT name wp_district" />
+            <marker date="1494523323908" expanded="true" signature="15310:15331" ph="SELECT * FRO... wp_city" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="251" column="18" lean-forward="false" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482157942" expanded="true" signature="2292:2494" ph="..." />
-            <marker date="1494482157942" expanded="true" signature="2352:2494" ph="..." />
-            <marker date="1494482157942" expanded="true" signature="2695:2744" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="250" column="18" lean-forward="false" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482157580" expanded="true" signature="1969:2171" ph="..." />
-            <marker date="1494482157580" expanded="true" signature="2029:2171" ph="..." />
-            <marker date="1494482157580" expanded="true" signature="2372:2421" ph="..." />
-          </folding>
+        <state relative-caret-position="117">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/single-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="152" column="23" lean-forward="true" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+        <state relative-caret-position="117">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/woocommerce/taxonomy-product_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page-templates/template-contact-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret line="42" column="67" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
           <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1494482156950" expanded="true" signature="2236:2438" ph="..." />
-            <marker date="1494482156950" expanded="true" signature="2296:2438" ph="..." />
-            <marker date="1494482156950" expanded="true" signature="2639:2688" ph="..." />
+            <element signature="e#6#108#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="93" column="87" lean-forward="true" selection-start-line="92" selection-start-column="16" selection-end-line="93" selection-end-column="87" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#2115#2965#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="523">
+          <caret line="241" column="79" lean-forward="false" selection-start-line="241" selection-start-column="79" selection-end-line="241" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/estore-child/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -239,6 +239,8 @@ ul.store_list_result{list-style:none;margin-left:0;}
 @keyframes spin{0%{transform:rotate(0deg);}
 100%{transform:rotate(360deg);}
 }
+.sologan_lht{text-align:center;line-height:1.8;margin-bottom:20px;font-weight:900;}
+.sologan_lht p {margin-bottom:0;}
 .showStores .modal-content{background-color:white;border:1px solid;}
 .showStores .modal-header{border-bottom:1px solid black;}
 .showStores h5.modal-title{color:red;}
@@ -271,8 +273,9 @@ ul.sub-menu li.lang-item a{color:black !important;}
 .widget-large-advertise, .wishlist-cart-wrapper{display:none !important;}
 }
 @media (min-width:768px){.col-md-3.menu-cates{-webkit-box-flex:0;-webkit-flex:0 0 20%;-ms-flex:0 0 20%;flex:0 0 20%;max-width:20%;}
-.col-md-7.content-page{-webkit-box-flex:0;-webkit-flex:0 0 63.333333%;-ms-flex:0 0 63.333333%;flex:0 0 63.333333%;max-width:63.333333%;}
+.col-md-7.content-page{-webkit-box-flex:0;-webkit-flex:0 0 66.333333%;-ms-flex:0 0 66.333333%;flex:0 0 66.333333%;max-width:66.333333%;}
 .col-md-4.product-item{-webkit-box-flex:0;-webkit-flex:0 0 31.333333%;-ms-flex:0 0 31.333333%;flex:0 0 31.333333%;max-width:31.333333%;}
+.col-md-2.list-customers{-webkit-box-flex:0;-webkit-flex:0 0 13.666667%;-ms-flex:0 0 13.666667%;flex:0 0 13.666667%;max-width:13.666667%;}
 }
 @media (max-width:768px){#site-navigation ul li a{color:black;}
 .btn-product-menu.btn-dropdown-products{display:inline-flex;}
